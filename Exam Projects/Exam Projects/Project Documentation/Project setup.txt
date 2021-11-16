@@ -1,0 +1,14 @@
+SQL Server Express LocalDB : 
+
+https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15
+
+Instalation of Sql server management stuido :
+
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+
+
+8b68e40ad19c2d8b5cebde78ebc43744146798510e5072b90fdf1f85ce9d75eaf4f8631ffab90d7cf981042c9dc1cc28b84f9756bcba485d06149e219d3b1f47f2df6ebd789c80a1a9160fbaa1d1e4ed0e4907c5811b9487b39c6d5e2b7cc0939e8e07a2b3
+
+
+
